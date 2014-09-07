@@ -8,7 +8,7 @@ A collection of knowledge as it relates to WordPress security.
 
 #### Sept 2014 - Asset Access Restriction Methods – Block Unwanted Visitors
  - http://www.sitepoint.com/asset-access-restriction-methods-block-unwanted-visitors/
- - 
+ 
 
 #### Sept 2014 - Why You Should Change the WordPress Administrator User ID
 - http://www.wpwhitesecurity.com/wordpress-security/change-wordpress-administrator-id/
