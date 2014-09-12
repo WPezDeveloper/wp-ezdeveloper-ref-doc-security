@@ -5,6 +5,9 @@ A collection of knowledge as it relates to WordPress security.
 
 ===========================================================================================
 
+#### Sept 2014 - Bad Bot .htaccess, List (Updates Log)
+ - http://pastebin.com/r1TvzT6p
+
 
 #### Sept 2014 - Asset Access Restriction Methods – Block Unwanted Visitors
  - http://www.sitepoint.com/asset-access-restriction-methods-block-unwanted-visitors/
