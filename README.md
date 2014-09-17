@@ -5,6 +5,14 @@ A collection of knowledge as it relates to WordPress security.
 
 ===========================================================================================
 
+#### Sept 2014 - The WordPress Developer’s Guide to Security: Security & Backup Plugins
+ - https://managewp.com/wordpress-security-backup-plugins
+
+
+#### Sept 2014 - Understanding the WordPress Security Plugin Ecosystem
+- http://blog.sucuri.net/2014/09/understanding-the-wordpress-security-plugin-ecosystem.html
+
+
 #### Sept 2014 - Bad Bot .htaccess, List (Updates Log)
  - http://pastebin.com/r1TvzT6p
 
