@@ -5,6 +5,9 @@ A collection of knowledge as it relates to WordPress security.
 
 ===========================================================================================
 
+#### WordPress Web Application Firewall – BBQ:Block Bad Queries
+- http://www.wpwhitesecurity.com/wordpress-plugins/wordpress-web-application-firewall-bbq-block-bad-queries/
+
 #### Sept 2014 - The WordPress Developer’s Guide to Security: Security & Backup Plugins
  - https://managewp.com/wordpress-security-backup-plugins
 
