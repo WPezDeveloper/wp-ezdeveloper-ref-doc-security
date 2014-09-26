@@ -5,7 +5,7 @@ A collection of knowledge as it relates to WordPress security.
 ===========================================================================================
 
 
-###### Hide Your Plugins
+##### Hide Your Plugins
 
 Putting a blank index.xxx file into your /wp-content/plugins/ folder will hide all of your plugins. Some of you are probably thinking, "Who cares if someone can see my plugins?". Well, plugins can tell hackers how to hack your site, or at least if it is hackable.
 
@@ -16,7 +16,7 @@ Putting a blank index.xxx file into your /wp-content/plugins/ folder will hide a
 
 ## Plugins
 
-###### iThemes' Better WP Security
+##### iThemes' Better WP Security
 
 -https://wordpress.org/plugins/better-wp-security/
 
