@@ -20,6 +20,17 @@ Note that you should also change the default WordPress database table prefix. Th
 - **Source: http://code.tutsplus.com/tutorials/20-steps-to-a-flexible-and-secure-wordpress-installation--wp-13236**
 
 
+##### Disable file editing via the dashboard
+
+In a default WordPress installation, you can navigate to Appearance > Editor and edit any of your theme files right in the dashboard. The trouble is, if a hacker managed to gain access to your admin panel, they could also edit your files that way, and execute whatever code they wanted to. So it’s a good idea to disable this method of file editing, by adding the following to your wp-config.php file:
+
+define( ‘DISALLOW_FILE_EDIT’, true );
+
+- **Source: http://www.woothemes.com/2013/09/improve-your-wordpress-security-with-these-10-tips**
+
+Note: This can also be done via hooks, in the event you want to still allow some user to use editing.
+
+
 ##### Hide Your Plugins
 
 Putting a blank index file into your /wp-content/plugins/ folder will hide all of your plugins. Some of you are probably thinking, "Who cares if someone can see my plugins?". Well, plugins can tell hackers how to hack your site, or at least if it is hackable.
