@@ -68,6 +68,7 @@ The easiest and most secure way to log in to WordPress: no passwords, no tempora
 
 - https://wordpress.org/plugins/wpclef/
 - https://getclef.com/
+- http://wptavern.com/password-free-login-with-clef-hits-all-the-high-notes
 
 
 ##### Acunetix WP Security
