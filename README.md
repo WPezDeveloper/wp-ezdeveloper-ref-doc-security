@@ -30,6 +30,21 @@ Do keep in mind that moving or renaming wp-content may break certain poorly writ
 - **Source: http://premium.wpmudev.org/blog/10-wp-config-tweaks-to-improve-your-wordpress-site/**
 
 
+#### Move the plugins directory
+
+So far we have assumed your plugin directory will be staying inside the content directory, but it doesn’t have to.
+
+- **Source: http://premium.wpmudev.org/blog/10-wp-config-tweaks-to-improve-your-wordpress-site/**
+
+
+#### Relocate the mu-plugins Directory
+
+Must use plugins, aka “mu-plugins,” are plugins that run automatically on your site and cannot be disabled.
+By default, WordPress will look for a directory called “mu-plugins” in the content directory to load mu-plugins from.
+
+- **Source: http://premium.wpmudev.org/blog/10-wp-config-tweaks-to-improve-your-wordpress-site/**
+
+
 #### Password Protect Your WordPress Admin (wp-admin) Directory
 
 Step by step guide on how to password protect your WordPress admin (wp-admin) directory via .htaccess.
