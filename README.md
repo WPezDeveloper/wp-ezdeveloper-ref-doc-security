@@ -9,7 +9,7 @@ A collection of knowledge as it relates to WordPress security.
 
 Putting a blank index.xxx file into your /wp-content/plugins/ folder will hide all of your plugins. Some of you are probably thinking, "Who cares if someone can see my plugins?". Well, plugins can tell hackers how to hack your site, or at least if it is hackable.
 
-**source: http://code.tutsplus.com/articles/10-steps-to-securing-your-wordpress-installation--wp-21579 **
+**source: http://code.tutsplus.com/articles/10-steps-to-securing-your-wordpress-installation--wp-21579**
 
 
 
