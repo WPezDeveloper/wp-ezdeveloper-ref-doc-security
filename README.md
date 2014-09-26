@@ -72,6 +72,11 @@ Putting a blank index file into your /wp-content/plugins/ folder will hide all o
 - https://wordpress.org/plugins/better-wp-security/
 
 
+##### Wordfence Security - Wordfence Security is a free enterprise class security and performance plugin that makes your site up to 50 times faster and more secure.
+
+- https://wordpress.org/plugins/wordfence/
+
+
 ===========================================================================================
 
 ## Sources & Resources
