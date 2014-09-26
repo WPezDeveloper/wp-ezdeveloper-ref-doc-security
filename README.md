@@ -53,7 +53,9 @@ As mentioned earlier, the wp-config.php file contains all the confidential detai
 
 In a default WordPress installation, you can navigate to Appearance > Editor and edit any of your theme files right in the dashboard. The trouble is, if a hacker managed to gain access to your admin panel, they could also edit your files that way, and execute whatever code they wanted to. So it’s a good idea to disable this method of file editing, by adding the following to your wp-config.php file:
 
+```
 define( ‘DISALLOW_FILE_EDIT’, true );
+```
 
 - **Source: http://www.woothemes.com/2013/09/improve-your-wordpress-security-with-these-10-tips**
 
@@ -73,7 +75,9 @@ Error login messages may expose and give hackers an idea if they’ve gotten use
 
 To hide login error messages, simply put the following code in functions.php
 
+```
 add_filter('login_errors',create_function('$a', "return null;"));
+```
 
 - **Source: http://www.hongkiat.com/blog/hardening-wordpress-security/**
 
