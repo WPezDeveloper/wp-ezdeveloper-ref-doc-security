@@ -16,6 +16,11 @@ Note that you should also change the default WordPress database table prefix. Th
 ## Post-Install
 
 
+#### Move the wp-config.php
+
+- **http://premium.wpmudev.org/blog/daily-tip-improve-wordpress-security-by-moving-the-wp-config-php-file/**
+
+
 #### Password Protect Your WordPress Admin (wp-admin) Directory
 
 Step by step guide on how to password protect your WordPress admin (wp-admin) directory via .htaccess.
