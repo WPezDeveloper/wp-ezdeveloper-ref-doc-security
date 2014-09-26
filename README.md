@@ -62,6 +62,14 @@ Putting a blank index file into your /wp-content/plugins/ folder will hide all o
 ## Plugins
 
 
+##### Clef
+
+The easiest and most secure way to log in to WordPress: no passwords, no temporary codes, single sign-on/off.
+
+- https://wordpress.org/plugins/wpclef/
+- https://getclef.com/
+
+
 ##### Acunetix WP Security
 
 Scans your WordPress installation for security vulnerabilities.
