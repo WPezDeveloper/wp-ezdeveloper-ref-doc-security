@@ -4,10 +4,25 @@ wp-ezdeveloper-ref-doc-security
 A collection of knowledge as it relates to WordPress security.
 ===========================================================================================
 
+## Pre-install
+
+##### Add a Unique Database Prefix
+
+Note that you should also change the default WordPress database table prefix. This is to secure your installation against hacks, such as the recent outbreak of the Pharma Hack. Visit random.org to generate a random prefix string which you'll need to set as the $table_prefix in wp-config.php. In addition, make sure to add an underscore at the end of the prefix.
+
+- **Source: http://code.tutsplus.com/tutorials/20-steps-to-a-flexible-and-secure-wordpress-installation--wp-13236**
+ 
+
+## Post-Install
+
+##### .htaccess changes
+
+- **Source: http://code.tutsplus.com/tutorials/20-steps-to-a-flexible-and-secure-wordpress-installation--wp-13236**
+
 
 ##### Hide Your Plugins
 
-Putting a blank index.xxx file into your /wp-content/plugins/ folder will hide all of your plugins. Some of you are probably thinking, "Who cares if someone can see my plugins?". Well, plugins can tell hackers how to hack your site, or at least if it is hackable.
+Putting a blank index file into your /wp-content/plugins/ folder will hide all of your plugins. Some of you are probably thinking, "Who cares if someone can see my plugins?". Well, plugins can tell hackers how to hack your site, or at least if it is hackable.
 
 - **Source: http://code.tutsplus.com/articles/10-steps-to-securing-your-wordpress-installation--wp-21579**
 
