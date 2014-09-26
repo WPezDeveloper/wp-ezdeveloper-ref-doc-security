@@ -15,6 +15,14 @@ Note that you should also change the default WordPress database table prefix. Th
 
 ## Post-Install
 
+
+##### Password Protect Your WordPress Admin (wp-admin) Directory
+
+Step by step guide on how to password protect your WordPress admin (wp-admin) directory via .htaccess.
+
+- **Source: http://www.wpbeginner.com/wp-tutorials/how-to-password-protect-your-wordpress-admin-wp-admin-directory/**
+
+
 ##### .htaccess changes
 
 - **Source: http://code.tutsplus.com/tutorials/20-steps-to-a-flexible-and-secure-wordpress-installation--wp-13236**
