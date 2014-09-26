@@ -65,6 +65,19 @@ Putting a blank index file into your /wp-content/plugins/ folder will hide all o
 - **Source: http://code.tutsplus.com/articles/10-steps-to-securing-your-wordpress-installation--wp-21579**
 
 
+##### Hide Login Error Messages
+
+Error login messages may expose and give hackers an idea if they’ve gotten username correct/incorrect, vice versa. It is wise to hide it from unauthorized login.
+
+To hide login error messages, simply put the following code in functions.php
+
+add_filter('login_errors',create_function('$a', "return null;"));
+
+- **Source: http://www.hongkiat.com/blog/hardening-wordpress-security/**
+
+Note: It's best to have your own standard customizations plugin (and not always use the theme's functions.php) so you don't forget about things like this if / when you switch themes. Ideally, you'd make this plugin a must use plugin so there's no chance of it being deactivated.
+
+
 ===========================================================================================
 
 ## Plugins
