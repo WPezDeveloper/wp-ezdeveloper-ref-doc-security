@@ -61,7 +61,13 @@ Putting a blank index file into your /wp-content/plugins/ folder will hide all o
 
 ## Plugins
 
-##### iThemes' Better WP Security
+
+##### Acunetix WP Security - Scans your WordPress installation for security vulnerabilities.
+
+- https://wordpress.org/plugins/wp-security-scan/
+
+
+##### iThemes Better WP Security = The easiest, most effective way to secure WordPress in seconds.
 
 - https://wordpress.org/plugins/better-wp-security/
 
