@@ -20,7 +20,7 @@ Note that you should also change the default WordPress database table prefix. Th
 - **Source: http://code.tutsplus.com/tutorials/20-steps-to-a-flexible-and-secure-wordpress-installation--wp-13236**
 
 
-##### Protect wp-config.php
+##### Protect wp-config.php  + Protect .htaccess
 
 As mentioned earlier, the wp-config.php file contains all the confidential details of your site. So it's pretty important that you protect it at all costs. An easy way to protect this file is to simply place the following code in your .htaccess file on your server.
 
@@ -30,6 +30,10 @@ As mentioned earlier, the wp-config.php file contains all the confidential detai
 </Files>
 
 
+<Files .htaccess>
+   order allow,deny
+   deny from all
+</Files>
 
 
 - **Source: http://code.tutsplus.com/tutorials/11-quick-tips-securing-your-wordpress-site--wp-22446**
