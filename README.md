@@ -12,7 +12,13 @@ Putting a blank index.xxx file into your /wp-content/plugins/ folder will hide a
 **Source: http://code.tutsplus.com/articles/10-steps-to-securing-your-wordpress-installation--wp-21579**
 
 
+===========================================================================================
 
+## Plugins
+
+- iThemes' Better WP Security
+
+https://wordpress.org/plugins/better-wp-security/
 
 
 ===========================================================================================
