@@ -18,7 +18,16 @@ Note that you should also change the default WordPress database table prefix. Th
 
 #### Move the wp-config.php
 
-- **http://premium.wpmudev.org/blog/daily-tip-improve-wordpress-security-by-moving-the-wp-config-php-file/**
+- **Source: http://premium.wpmudev.org/blog/daily-tip-improve-wordpress-security-by-moving-the-wp-config-php-file/**
+
+
+#### Move the wp-content directory
+
+In case you are wondering, you can change the name of wp-content to whatever you want. Doing so is especially useful if you have several local development servers running on your computer. If you do it will make searching for a particular site’s content directory much easier. In fact you can use the same method to rename wp-content without moving it.
+
+Do keep in mind that moving or renaming wp-content may break certain poorly written plugins or themes that have hardcoded the plugin or theme directories instead of doing it the right way. Don’t let this stop you moving or renaming wp-content as you probably shouldn’t trust any plugin or theme that doesn’t define their directory location properly using constants.
+
+- **Source: http://premium.wpmudev.org/blog/10-wp-config-tweaks-to-improve-your-wordpress-site/**
 
 
 #### Password Protect Your WordPress Admin (wp-admin) Directory
