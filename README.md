@@ -20,6 +20,21 @@ Note that you should also change the default WordPress database table prefix. Th
 - **Source: http://code.tutsplus.com/tutorials/20-steps-to-a-flexible-and-secure-wordpress-installation--wp-13236**
 
 
+##### Protect wp-config.php
+
+As mentioned earlier, the wp-config.php file contains all the confidential details of your site. So it's pretty important that you protect it at all costs. An easy way to protect this file is to simply place the following code in your .htaccess file on your server.
+
+<Files wp-config.php>
+   order allow,deny
+   deny from all
+</Files>
+
+
+
+
+- **Source: http://code.tutsplus.com/tutorials/11-quick-tips-securing-your-wordpress-site--wp-22446**
+
+
 ##### Disable file editing via the dashboard
 
 In a default WordPress installation, you can navigate to Appearance > Editor and edit any of your theme files right in the dashboard. The trouble is, if a hacker managed to gain access to your admin panel, they could also edit your files that way, and execute whatever code they wanted to. So it’s a good idea to disable this method of file editing, by adding the following to your wp-config.php file:
