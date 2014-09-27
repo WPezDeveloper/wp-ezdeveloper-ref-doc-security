@@ -50,7 +50,10 @@ By default, WordPress will look for a directory called “mu-plugins” in the c
 Step by step guide on how to password protect your WordPress admin (wp-admin) directory via .htaccess.
 
 - **Source: http://www.wpbeginner.com/wp-tutorials/how-to-password-protect-your-wordpress-admin-wp-admin-directory/**
-
+ 
+```
+**IMPORTANT http://codex.wordpress.org/Moving_WordPress#Moving_Directories_On_Your_Existing_Server**
+```
 
 #### .htaccess changes
 
