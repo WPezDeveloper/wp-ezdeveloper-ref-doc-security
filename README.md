@@ -1,3 +1,5 @@
+# - - DRAFT - - 
+
 wp-ezdeveloper-ref-doc-security
 ===============================
 
@@ -130,6 +132,15 @@ add_filter('login_errors','login_error_msg');
 Note: It's best to have your own standard customizations plugin (and not always use the theme's functions.php) so you don't forget about things like this if / when you switch themes. Ideally, you'd make this plugin a must use plugin so there's no chance of it being deactivated.
 
 
+#### Change the WordPress Administrator User ID
+
+The WordPress administrator account is most probably the most targeted account on a WordPress blog or site. Therefore it is recommended to properly secure the WordPress administrator account.
+
+One of the recommended security tweaks is to change the default ID assigned to the WordPress administrator user account. This WordPress security article explains why you should change the default WordPress administrator account ID and how to change it.
+
+- **Source: http://www.wpwhitesecurity.com/wordpress-security/change-wordpress-administrator-id/**
+
+
 ===========================================================================================
 
 ## Plugins
@@ -190,11 +201,6 @@ Wordfence Security is a free enterprise class security and performance plugin th
 #### Sept 2014 - Asset Access Restriction Methods – Block Unwanted Visitors
  - http://www.sitepoint.com/asset-access-restriction-methods-block-unwanted-visitors/
  
-
-#### Sept 2014 - Why You Should Change the WordPress Administrator User ID
-- http://www.wpwhitesecurity.com/wordpress-security/change-wordpress-administrator-id/
-
-
 #### Aug 2014 - My WordPress Website Was Hacked
 - http://blog.sucuri.net/2014/08/my-wordpress-website-was-hacked.html
 
