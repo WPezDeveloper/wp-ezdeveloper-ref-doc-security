@@ -146,6 +146,13 @@ One of the recommended security tweaks is to change the default ID assigned to t
 ## Plugins
 
 
+#### WP Password Policy Manager
+
+Improve the security of your WordPress blogs and websites by configuring strong WordPress policies to ensure all WordPress users use strong passwords.
+
+- https://wordpress.org/plugins/wp-password-policy-manager/
+
+
 #### Clef
 
 The easiest and most secure way to log in to WordPress: no passwords, no temporary codes, single sign-on/off.
@@ -153,6 +160,13 @@ The easiest and most secure way to log in to WordPress: no passwords, no tempora
 - https://wordpress.org/plugins/wpclef/
 - https://getclef.com/
 - http://wptavern.com/password-free-login-with-clef-hits-all-the-high-notes
+
+
+#### WP Security Audit Log
+
+Similar to the Windows Event Log or Syslog on Unix / Linux systems, WP Security Audit Log is a WordPress security monitoring plugin that logs all type of activity happening on your WordPress blog or website or WordPress Multisite network installation.
+
+https://wordpress.org/plugins/wp-security-audit-log/
 
 
 #### Acunetix WP Security
