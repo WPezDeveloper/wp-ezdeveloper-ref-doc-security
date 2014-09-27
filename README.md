@@ -79,8 +79,13 @@ As mentioned earlier, the wp-config.php file contains all the confidential detai
 </Files>
 ```
 
-
 - **Source: http://code.tutsplus.com/tutorials/11-quick-tips-securing-your-wordpress-site--wp-22446**
+
+
+
+#### Add Bad Bot list to .htaccess
+
+- **Source: http://pastebin.com/r1TvzT6p**
 
 
 #### Disable file editing via the dashboard
@@ -180,10 +185,6 @@ Wordfence Security is a free enterprise class security and performance plugin th
 
 #### Sept 2014 - Understanding the WordPress Security Plugin Ecosystem
 - http://blog.sucuri.net/2014/09/understanding-the-wordpress-security-plugin-ecosystem.html
-
-
-#### Sept 2014 - Bad Bot .htaccess, List (Updates Log)
- - http://pastebin.com/r1TvzT6p
 
 
 #### Sept 2014 - Asset Access Restriction Methods – Block Unwanted Visitors
