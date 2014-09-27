@@ -105,7 +105,14 @@ Error login messages may expose and give hackers an idea if they’ve gotten use
 To hide login error messages, simply put the following code in functions.php
 
 ```
-add_filter('login_errors',create_function('$a', "return null;"));
+// Security update hide error messages for failed login
+function login_error_msg () {
+  // Custom login error message
+  $login_err_msg = "Invalid User Name or Password";
+  return $login_err_msg;
+}
+
+add_filter('login_errors','login_error_msg');
 ```
 
 - **Source: http://www.hongkiat.com/blog/hardening-wordpress-security/**
