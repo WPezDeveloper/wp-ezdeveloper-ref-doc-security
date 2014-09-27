@@ -155,11 +155,19 @@ Improve the security of your WordPress blogs and websites by configuring strong 
 
 #### Clef
 
-The easiest and most secure way to log in to WordPress: no passwords, no temporary codes, single sign-on/off.
+Two-factor authentication - The easiest and most secure way to log in to WordPress: no passwords, no temporary codes, single sign-on/off.
 
 - https://wordpress.org/plugins/wpclef/
 - https://getclef.com/
 - http://wptavern.com/password-free-login-with-clef-hits-all-the-high-notes
+ 
+
+#### Google Authenticator
+
+Two-factor authentication using the Google Authenticator app for Android/iPhone/Blackberry.
+
+- https://wordpress.org/plugins/google-authenticator/
+- http://www.wpwhitesecurity.com/wordpress-security/add-google-authenticator-wordpress/
 
 
 #### WP Security Audit Log
