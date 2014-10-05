@@ -229,3 +229,10 @@ Wordfence Security is a free enterprise class security and performance plugin th
 
 #### Aug 2014 - Is My Website Ready for Some Serious Hacks?
 - http://www.1stwebdesigner.com/design/serious-hacks-website/
+- 
+
+===========================================================================================
+
+## TODOs
+
+- http://www.wpwhitesecurity.com/definite-guide-htaccess-wordpress/
