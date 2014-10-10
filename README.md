@@ -235,6 +235,8 @@ Wordfence Security is a free enterprise class security and performance plugin th
 
 ## TODOs
 
+- http://www.elegantthemes.com/blog/tips-tricks/wordpress-wp-config-php
+
 - http://www.wpwhitesecurity.com/wordpress-security/wordpress-security-plugins/
 
 - http://www.wpwhitesecurity.com/definite-guide-htaccess-wordpress/
