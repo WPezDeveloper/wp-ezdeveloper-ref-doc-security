@@ -141,6 +141,15 @@ One of the recommended security tweaks is to change the default ID assigned to t
 - **Source: http://www.wpwhitesecurity.com/wordpress-security/change-wordpress-administrator-id/**
 
 
+#### Development: Sanitize, Escape and Validate
+
+Sanitizing, Escaping and Validating Data in WordPress
+- http://www.sitepoint.com/sanitizing-escaping-validating-data-in-wordpress/
+
+WordPress.org Codex: Data Validation
+- https://codex.wordpress.org/Data_Validation
+
+
 ===========================================================================================
 
 ## Plugins
