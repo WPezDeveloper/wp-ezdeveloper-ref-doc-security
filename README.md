@@ -238,11 +238,15 @@ Wordfence Security is a free enterprise class security and performance plugin th
 
 #### Aug 2014 - Is My Website Ready for Some Serious Hacks?
 - http://www.1stwebdesigner.com/design/serious-hacks-website/
-- 
+ 
 
 ===========================================================================================
 
 ## TODOs
+
+#### May 2015 - Securing WordPress Against Hackers and DDoS Attacks
+- http://www.sitepoint.com/securing-wordpress-hackers-ddos-attacks
+ 
 
 - http://premium.wpmudev.org/blog/set-up-wordpress-like-a-pro/
 
