@@ -4,7 +4,16 @@ wp-ezdeveloper-ref-doc-security
 ===============================
 
 A collection of knowledge as it relates to WordPress security.
-===========================================================================================
+
+---
+
+**"What this WPezDevelope Ref Doc stuff all about?"**
+
+https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/README.md
+
+---
+
+
 
 ## Pre-install
 
