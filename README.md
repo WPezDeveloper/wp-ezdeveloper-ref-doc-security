@@ -221,6 +221,14 @@ The easiest, most effective way to secure WordPress in seconds.
 Wordfence Security is a free enterprise class security and performance plugin that makes your site up to 50 times faster and more secure.
 
 - https://wordpress.org/plugins/wordfence/
+ 
+
+===========================================================================================
+
+## Other
+
+##### July 2015 - 10 Reasons To Use HTTPS
+ - https://medium.com/so-now-you-know/10-reasons-to-go-https-a2cba5734bb6
 
 
 ===========================================================================================
@@ -229,6 +237,7 @@ Wordfence Security is a free enterprise class security and performance plugin th
 
 #### WordPress Web Application Firewall – BBQ:Block Bad Queries
 - http://www.wpwhitesecurity.com/wordpress-plugins/wordpress-web-application-firewall-bbq-block-bad-queries/
+
 
 #### Sept 2014 - The WordPress Developer’s Guide to Security: Security & Backup Plugins
  - https://managewp.com/wordpress-security-backup-plugins
@@ -256,7 +265,6 @@ Wordfence Security is a free enterprise class security and performance plugin th
 #### May 2015 - Securing WordPress Against Hackers and DDoS Attacks
 - http://www.sitepoint.com/securing-wordpress-hackers-ddos-attacks
  
-
 - http://premium.wpmudev.org/blog/set-up-wordpress-like-a-pro/
 
 - http://www.elegantthemes.com/blog/tips-tricks/wordpress-wp-config-php
