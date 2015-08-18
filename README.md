@@ -262,6 +262,9 @@ Wordfence Security is a free enterprise class security and performance plugin th
 
 ## TODOs
 
+10 Tips to Secure WordPress
+http://www.sitepoint.com/tips-to-secure-wordpress
+
 #### May 2015 - Securing WordPress Against Hackers and DDoS Attacks
 - http://www.sitepoint.com/securing-wordpress-hackers-ddos-attacks
  
