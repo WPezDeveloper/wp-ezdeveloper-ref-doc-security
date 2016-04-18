@@ -262,6 +262,9 @@ Wordfence Security is a free enterprise class security and performance plugin th
 
 ## TODOs
 
+##### April 2016 - Everything You Need To Know About Security For WordPress
+ - http://torquemag.io/2016/04/everything-need-know-security-wordpress/
+
 10 Tips to Secure WordPress
 http://www.sitepoint.com/tips-to-secure-wordpress
 
