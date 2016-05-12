@@ -262,6 +262,9 @@ Wordfence Security is a free enterprise class security and performance plugin th
 
 ## TODOs
 
+##### May 2016 - How to Tweak wp-config.php to Protect Your WordPress Site
+ - https://premium.wpmudev.org/blog/tweaking-wp-config/
+
 ##### April 2016 - Everything You Need To Know About Security For WordPress
  - http://torquemag.io/2016/04/everything-need-know-security-wordpress/
 
