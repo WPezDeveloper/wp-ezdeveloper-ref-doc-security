@@ -262,6 +262,9 @@ Wordfence Security is a free enterprise class security and performance plugin th
 
 ## TODOs
 
+##### May 2017 - How To Run A WordPress Security Audit
+ - https://ithemes.com/2017/05/17/how-to-run-a-wordpress-security-audit/
+
 ##### July 2016 - WordPress Security: The Ultimate 32-Step Checklist
  - https://premium.wpmudev.org/blog/ultimate-wordpress-security-checklist/
 
